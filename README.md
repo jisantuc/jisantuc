@@ -13,6 +13,7 @@ API server named [Franklin](https://github.com/azavea/franklin).
 
 I'd like to be better at selling / teaching functional programming (e.g. [1](https://github.com/jisantuc/tiny-test/),
 [2](https://github.com/jisantuc/patats/blob/master/2020-11-06-property-testing-for-fun-and-profit/property-testing-for-fun-and-profit.md))
-and writing helpful docs for applications (e.g. [1](https://azavea.github.io/franklin/docs/introduction)).
+and writing helpful docs for applications (e.g. [1](https://azavea.github.io/franklin/docs/introduction)). I'd also like to be better at
+helping other people who didn't start out thinking they'd like to write software but think maybe it's for them.
 
-You can tweet at me at `@james_santucci`.
+If you want to say words to me about any of that, you can tweet at me at `@james_santucci`.
