@@ -1,6 +1,6 @@
 ### 👋
 
-I'm a Software Engineer at [47 Degrees](https://www.47deg.com/), a global consulting firm and open source advocate specializing in Scala, Kotlin, and related functional programming technologies.
+I'm a software engineer at [47 Degrees](https://www.47deg.com/), a global consulting firm and open source advocate specializing in Scala, Kotlin, and related functional programming technologies.
 
 I'm interested in typed functional programming and programs that can't crash.
 In non-_work_ work I like PureScript and Haskell, and you can see some past small work in those areas
